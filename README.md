@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning PYTHON, BUT EVENTUALLY C++
 - 💞️ I’m looking to collaborate on POSSIBLE STATISTICAL ALGO BOTS
 - 📫 How to reach me kww6@uw.edu
-- 😄 Pronouns: THAT NIG
 - ⚡ Fun fact: I MAY BE A DEGEN
 
 <!---
